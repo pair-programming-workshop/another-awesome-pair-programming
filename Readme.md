@@ -1,4 +1,4 @@
-# Awesome Pairprogramming List
+# Another Awesome Pair Programming 
 
 A curated list of awesome pair programming resources, including books and long-form articles.
 
