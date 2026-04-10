@@ -4,15 +4,15 @@ A curated list of awesome pair programming resources, including books and long-f
 
 ## Books
 
-- Pair Programming Illuminated by Laurie Williams
-- Teach Toddler Tech Pair Programming by Iria Osara
-- Practical Remote Pair Programming by Adrian Bolboacă
-- 29 Guidelines for Successful Pair Programming by Oozie Ligus
-- Pair programming Second Edition by Gerardus Blokdyk
-- Practical Pair Programming by Jason Garber
-- Extreme Programming Explained by Kent Beck
-- The Art of Agile Development by James Shore
-- Remote Pairing: Collaborative Tools for Distributed Development xby Joe Kuttner
+- [Pair Programming Illuminated](https://www.informit.com/store/pair-programming-illuminated-9780201745764) by Laurie Williams & Robert Kessler
+- [Teach Toddler Tech: Pair Programming](https://www.amazon.com/Teach-Toddler-Tech-Pair-Programming/dp/B08Y9FTRTK) by Iria Osara
+- [Practical Remote Pair Programming](https://www.packtpub.com/en-us/product/practical-remote-pair-programming-9781800561366) by Adrian Bolboacă
+- [29 Guidelines for Successful Pair Programming](https://www.amazon.com/29-Guidelines-Successful-Pair-Programming/dp/1094752541) by Oozie Ligus
+- [Pair programming Second Edition](https://www.amazon.com/Pair-Programming-Second-Gerardus-Blokdyk/dp/0655306668) by Gerardus Blokdyk
+- [Practical Pair Programming](https://jasongarber.com/blog/2024/08/26/free-pair-programming-ebook/) by Jason Garber (free ebook)
+- [Extreme Programming Explained: Embrace Change](https://www.oreilly.com/library/view/extreme-programming-explained/0321278658/) by Kent Beck & Cynthia Andres
+- [The Art of Agile Development](https://www.jamesshore.com/v2/books/aoad2) by James Shore & Shane Warden
+- [Remote Pairing: Collaborative Tools for Distributed Development](https://pragprog.com/titles/jkrp/remote-pairing/) by Joe Kutner
 
 ## Articles
 
