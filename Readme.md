@@ -31,37 +31,37 @@ A curated list of awesome pair programming resources, including books and long-f
 ## Remote Pair Programming Tools with IDE Integration
 
 ### Atom Plugins
-- Mote Pair [atom.io/packages](https://atom.io/packages/motepair)
-- Atom Pair [atom.io/packages](https://atom.io/packages/atom-pair)
-- Floobits Atom [github.com/Floobits](https://github.com/Floobits/floobits-atom)
+- [Motepair](https://atom.io/packages/motepair) - collaborative editing for Atom (Atom itself is deprecated as of 2022)
+- [Atom Pair](https://atom.io/packages/atom-pair) - pair programming for Atom (Atom itself is deprecated as of 2022)
+- [Floobits for Atom](https://github.com/Floobits/floobits-atom) - Atom client for Floobits
 
-### EMACS Plugins
-- Floobits EMACS [github.com/Floobits](https://github.com/Floobits/floobits-emacs)
+### Emacs Plugins
+- [Floobits for Emacs](https://github.com/Floobits/floobits-emacs) - Emacs client for Floobits
 
 ### IntelliJ Plugins
-- Floobits IntelliJ [github.com/Floobits](https://github.com/Floobits/floobits-intellij)
+- [Floobits for IntelliJ](https://github.com/Floobits/floobits-intellij) - IntelliJ client for Floobits
 
 ### Sublime Text Plugins
-- Remote Sublime [teamremote.github.io](http://teamremote.github.io/remote-sublime/)
-- Subliminal Collaborator [nlloyd/SubliminalCollaborator](https://github.com/nlloyd/SubliminalCollaborator)
-- Floobits Sublime [github.com/Floobits](https://github.com/Floobits/floobits-sublime)
+- [Remote Sublime](http://teamremote.github.io/remote-sublime/) - collaborative editing for Sublime Text
+- [Subliminal Collaborator](https://github.com/nlloyd/SubliminalCollaborator) - pair programming plugin for Sublime Text
+- [Floobits for Sublime](https://github.com/Floobits/floobits-sublime) - Sublime client for Floobits
 
 ### Vim Plugins
-- TMUX [tmux](https://tmux.github.io/) - (Note: TMUX is a terminal multiplexer, not strictly an IDE plugin, but enables remote pairing)
-- Floobits Vim [github.com/Floobits](https://github.com/Floobits/floobits-vim)
+- [tmux](https://tmux.github.io/) - terminal multiplexer enabling remote terminal-based pairing (not strictly an IDE plugin)
+- [Floobits for Vim](https://github.com/Floobits/floobits-vim) - Vim client for Floobits
 
 ### Visual Studio Code Plugins
-- Visual Studio Live Share [marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
-- Visual Studio Live Share Audio [marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio)
+- [Visual Studio Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Microsoft's real-time collaborative editing for VS Code
+- [Visual Studio Live Share Audio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio) - audio companion for Live Share
 
-### Other Tools
-- JetBrains Code With Me (for JetBrains IDEs)
-- Duckly (supports different IDEs)
-- Drovio (for macOS, Windows and Linux)
-- Tuple (for macOS and Windows)
-- CodeSandbox Live
-- Codeanywhere
-- CodeTogether
+### Cross-IDE & Standalone Tools
+- [JetBrains Code With Me](https://www.jetbrains.com/code-with-me/) - collaborative development for JetBrains IDEs (being discontinued after the 2026.1 release)
+- [Duckly](https://duckly.com/) - real-time pair programming across VS Code, JetBrains IDEs, Android Studio, and more
+- [Drovio](https://www.drovio.com/) - multi-cursor screen sharing that works with any IDE (macOS, Windows, Linux)
+- [Tuple](https://tuple.app/) - high-resolution remote pair programming app (macOS, Windows)
+- [CodeSandbox Live](https://codesandbox.io/docs/learn/vm-sandboxes/live-sessions) - real-time collaboration in the browser
+- [Codeanywhere](https://codeanywhere.com/) - AI-powered cloud IDE with built-in pair programming
+- [CodeTogether](https://www.codetogether.com/) - cross-IDE pair programming across Eclipse, VS Code, and IntelliJ
 
 ## Pair Programming Research Papers
 
