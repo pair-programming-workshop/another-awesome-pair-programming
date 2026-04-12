@@ -127,6 +127,7 @@ A curated list of awesome pair programming resources, including books and long-f
 - [Pair programming helps female computer science students](https://dl.acm.org/doi/10.1145/1060071.1060075) — Werner, Hanks, McDowell (2004) · Pairing women significantly increases CS retention and major persistence.
 - [Measuring the effects of virtual pair programming in an introductory Java course](https://ieeexplore.ieee.org/document/5464387) — Zacharis (2011) · Virtual PP outcomes similar to solo in performance; higher student satisfaction.
 - [Research on pair programming partner recommendation based on personalized learning features](https://link.springer.com/chapter/10.1007/978-981-99-9492-2_29) — Wang & Zhang (2024) · ML-based partner recommendation using multiple distance algorithms for compatible pairing.
+- [The use of pair programming in the object oriented programming instruction](https://savearchive.zbw.eu/bitstream/11159/1887/1/1023170159.pdf) — Kazanidis & Moussiades (2017) · 51 OOP students; pair programmers developed better code with slightly higher performance and high satisfaction.
 
 ### Distributed & Remote Pair Programming
 
@@ -180,3 +181,4 @@ A curated list of awesome pair programming resources, including books and long-f
 - [The impact of GitHub Copilot on developer productivity from a SWEBOK perspective](https://www.researchgate.net/publication/381609417) — Multiple authors (2024) · Analyses Copilot's productivity impact across all SDLC phases.
 - [Measuring the impact of early-2025 AI on experienced open-source developer productivity](https://arxiv.org/abs/2507.09089) — Becker, Rush et al., METR (2025) · Surprising result: AI tooling slowed experienced OSS developers down by 19%.
 - [The impact of generative AI on collaborative open-source software development: Evidence from GitHub Copilot](https://arxiv.org/abs/2410.02091) — Multiple authors (2024) · Productivity increases but AI-assisted code requires more coordination work.
+- [An empirical study of knowledge transfer in AI pair programming](https://www.se.cs.uni-saarland.de/publications/docs/WSD+.pdf) — Welter, Schneider, Wyrich, Apel et al. (2025) · Copilot suggestions receive less scrutiny than human partners'; AI can subtly cause developers to miss important code details.
