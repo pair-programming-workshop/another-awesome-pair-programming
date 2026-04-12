@@ -128,6 +128,7 @@ A curated list of awesome pair programming resources, including books and long-f
 - [Measuring the effects of virtual pair programming in an introductory Java course](https://ieeexplore.ieee.org/document/5464387) — Zacharis (2011) · Virtual PP outcomes similar to solo in performance; higher student satisfaction.
 - [Research on pair programming partner recommendation based on personalized learning features](https://link.springer.com/chapter/10.1007/978-981-99-9492-2_29) — Wang & Zhang (2024) · ML-based partner recommendation using multiple distance algorithms for compatible pairing.
 - [The use of pair programming in the object oriented programming instruction](https://savearchive.zbw.eu/bitstream/11159/1887/1/1023170159.pdf) — Kazanidis & Moussiades (2017) · 51 OOP students; pair programmers developed better code with slightly higher performance and high satisfaction.
+- [Evaluating the use of pair programming and coding dojo in teaching mockups development: An empirical study](https://repositorio.pucrs.br/dspace/bitstream/10923/13217/2/Evaluating_the_Use_of_Pair_Programming_and_Coding_Dojo_in_the_Teaching_of_Mockup_Development_An_Empirical_Study.pdf) — Estácio, Valentim, Rivero, Conte, Prikladnicki (2025)
 
 ### Distributed & Remote Pair Programming
 
