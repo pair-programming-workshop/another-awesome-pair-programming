@@ -76,6 +76,7 @@ A curated list of awesome pair programming resources, including books and long-f
 - [Distributed pair programming in higher education: A systematic literature review](https://journals.sagepub.com/doi/abs/10.1177/07356331221122884) — Satratzemi, Xinogalos, Tsompanoudi (2023) · SLR of 57 DPP studies; reviews tools, outcomes, and environmental factors.
 - [Adopting distributed pair programming as an effective team learning activity](https://link.springer.com/article/10.1007/s12528-023-09356-3) — Xu & Correia (2023) · 23 DPP studies; pair compatibility is critical for satisfaction.
 - [Toward AI-Human paired programming: A review of educational applications](https://journals.sagepub.com/doi/10.1177/07356331241240460) — Liu & Li (2024) · Reviews AI coding tools in educational PP; proposes adaptive teaching ecosystems.
+- [Pair programming for learning programming subject in higher education: A systematic review](https://gaexcellence.com/ijepc/article/download/4284/3944/15331) — Ismail & Razak
 
 ### Industry Studies
 
@@ -155,6 +156,8 @@ A curated list of awesome pair programming resources, including books and long-f
 - [Pair dynamics in team collaboration](https://www.sciencedirect.com/science/article/abs/pii/S0747563208001817) — Choi, Deek, Im (2009) · Analyzes communication, conflict, and dynamic shifts within PP sessions.
 - [An empirical study on the impact of IDE tool support in pair and solo programming](https://arxiv.org/abs/1607.05173) — Gómez et al. (2016) · IDE use increases defect injection for both pairs and solos; pairs more resilient on complex tasks.
 - [Understanding pair programming: The base layer](https://www.amazon.com/Understanding-Pair-Programming-Base-Layer/dp/3732281930) — Salinger & Prechelt (2013) · Comprehensive framework of PP activities beyond the binary driver/navigator model.
+- [Qualitative analysis of knowledge transfer in pair programming](https://refubium.fu-berlin.de/bitstream/handle/fub188/28968/Dissertation_Zieris.pdf) — Zieris (2020) · PhD dissertation; 27 industrial PP sessions across 10 companies; knowledge transfers in all sessions, not just expert/novice pairings.
+- [Reference processing in pair-programming dialogue](https://wolala.nytud.hu/wp-content/uploads/2025/11/WoLaLa-2025_submission_16_paper_v1.pdf) — Domingo, Piwek, Wermelinger, Stoyanchev (2025)
 
 ### Gender, Diversity & Compatibility
 
