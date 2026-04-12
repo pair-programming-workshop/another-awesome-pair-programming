@@ -92,6 +92,7 @@ A curated list of awesome pair programming resources, including books and long-f
 - [An initial framework for research on pair programming](https://www.researchgate.net/publication/4038442) — Gallis, Arisholm, Dybå (2003) · First theoretical framework for organizing empirical PP research.
 - [A field study of developer pairs: Productivity impacts and implications](https://ieeexplore.ieee.org/document/1331306) — Parrish, Smith, Hale, Hale (2004) · Two-person teams working independently more productive than those working concurrently on the same module.
 - [Analyzing distributed cognition in software teams](https://www.researchgate.net/publication/242326530_Analyzing_distributed_cognition_in_software_teams_A_case_study_of_team_programming_during_perfective_software_maintenance) — Flor & Hutchins (1991) · Earliest distributed cognition framing of pair programming.
+- [Structural complexity and programmer team strategy: An experimental test](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?params=/context/sis_research/article/2468/&path_info=Structural_complexity_and_programmer_team_strategy_An_experimental_test.pdf) — Ramasubbu, Kemerer, Hong (2011)
 
 ### Educational Research
 
@@ -100,7 +101,7 @@ A curated list of awesome pair programming resources, including books and long-f
 - [The impact of pair programming on student performance, perception, and persistence](https://www.researchgate.net/publication/4016721_The_impact_of_pair_programming_on_student_performance_perception_and_persistence) — McDowell et al. (2003) · Female students gained 12% higher course grades; remote pairs performed as well as in-person.
 - [In support of pair programming in the introductory computer science course](https://www.researchgate.net/publication/228951124) — Williams et al. (2002) · Longitudinal study with 1,200+ students at NCSU and UC Santa Cruz.
 - [Improving student learning outcomes with pair programming](https://dl.acm.org/doi/10.1145/2361276.2361294) — Spacco & Babcock (2012) · Mental model consistency predicts PP success; aligning pairs improves outcomes.
-- [Evaluating effectiveness of pair programming as a team-based activity](https://files.eric.ed.gov/fulltext/EJ1140923.pdf) — Faja (2014) · IS course; enjoyment, perceived learning, and quality all higher with greater engagement.
+- [Evaluating effectiveness of pair programming as a teaching tool in programming courses](https://files.eric.ed.gov/fulltext/EJ1140923.pdf) — Faja (2014) · IS course; enjoyment, perceived learning, and quality all higher with greater engagement.
 - [Empirical evaluations of distributed pair programming](https://www.researchgate.net/publication/220694532) — Hanks (2008) · Multi-semester DPP study; similar outcomes to collocated PP.
 - [Investigating pair-programming in a 2nd-year software development course](https://www.researchgate.net/publication/228340340) — Mendes et al. (2005) · Replication at University of Auckland; confirms PP as effective learning technique.
 - [First-year students' impressions of pair programming](https://www.researchgate.net/publication/220094573_First_year_students'_impressions_of_pair_programming_in_CS1) — Simon & Hanks (2008) · Qualitative study; students report frustration with imbalanced contribution.
@@ -131,6 +132,8 @@ A curated list of awesome pair programming resources, including books and long-f
 - [The use of pair programming in the object oriented programming instruction](https://savearchive.zbw.eu/bitstream/11159/1887/1/1023170159.pdf) — Kazanidis & Moussiades (2017) · 51 OOP students; pair programmers developed better code with slightly higher performance and high satisfaction.
 - [Evaluating the use of pair programming and coding dojo in teaching mockups development: An empirical study](https://repositorio.pucrs.br/dspace/bitstream/10923/13217/2/Evaluating_the_Use_of_Pair_Programming_and_Coding_Dojo_in_the_Teaching_of_Mockup_Development_An_Empirical_Study.pdf) — Estácio, Valentim, Rivero, Conte, Prikladnicki (2025)
 - [Pair programming as a pedagogical practice: Connections to computing education theories](https://aaltodoc.aalto.fi/server/api/core/bitstreams/aecc339e-409e-4533-a5a1-14d40e0b2c6b/content) — Sheard, Malmi, Szabo, Kinnunen (2025)
+- [The impact of solo and pair programming modes on problem-solving skills and motivation](https://dergipark.org.tr/tr/download/article-file/4300379) — Demir, Çınar, Seferoğlu (2025)
+- [Multimodal learning analytics of collaborative patterns during pair programming in higher education](https://d-nb.info/1283177692/34) — Xu, Wu, Ouyang (2023)
 
 ### Distributed & Remote Pair Programming
 
