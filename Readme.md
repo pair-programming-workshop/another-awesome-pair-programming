@@ -145,6 +145,7 @@ A curated list of awesome pair programming resources, including books and long-f
 - [Remote pair programming: A longitudinal study of two companies during COVID-19](https://www.researchgate.net/publication/349841565) — Stray et al. (2021) · 38 interviews with 30 engineers; describes adaptation of PP practice during pandemic.
 - [Supporting the social practices of distributed pair programming](https://link.springer.com/chapter/10.1007/978-3-540-92831-7_8) — Schümmer & Lukosch (2008) · Analyzes social dimensions of DPP; proposes groupware support for coordination.
 - [Examining student performance and attitudes on distributed pair programming](https://www.hindawi.com/journals/sp/2018/6523538/) — Satratzemi et al. (2018) · Performance and attitude study; attitudes correlate with confidence in DPP.
+- [Evaluation of different group formation methods in the context of distributed pair programming](https://hal.science/hal-05247202v1/file/3724363.3729029.pdf) — Colin, Hoarau, Broisin (2025)
 
 ### Psychology, Cognition & Theory
 
