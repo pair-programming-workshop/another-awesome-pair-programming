@@ -134,6 +134,9 @@ A curated list of awesome pair programming resources, including books and long-f
 - [Pair programming as a pedagogical practice: Connections to computing education theories](https://aaltodoc.aalto.fi/server/api/core/bitstreams/aecc339e-409e-4533-a5a1-14d40e0b2c6b/content) — Sheard, Malmi, Szabo, Kinnunen (2025)
 - [The impact of solo and pair programming modes on problem-solving skills and motivation](https://dergipark.org.tr/tr/download/article-file/4300379) — Demir, Çınar, Seferoğlu (2025)
 - [Multimodal learning analytics of collaborative patterns during pair programming in higher education](https://d-nb.info/1283177692/34) — Xu, Wu, Ouyang (2023)
+- [Enhancing collaborative learning using pair programming: Who benefits?](https://ojs.aishe.org/index.php/aishe-j/article/download/141/251/892) — Maguire, Maguire, Hyland, Marshall
+- [The effect of pair programming learning model on learning outcomes of basic programming of vocational school students](https://ojs.unimal.ac.id/index.php/ijevs/article/download/3937/2924) — Dewi, Ekohariadi, Soeryanto, Rijanto (2021)
+- [Student's opinion on adopting pair programming as a teaching and learning tool](https://research.ijcaonline.org/volume60/number4/pxc3884106.pdf) — Radhakrishnan & Kanmani (2012)
 
 ### Distributed & Remote Pair Programming
 
@@ -146,6 +149,7 @@ A curated list of awesome pair programming resources, including books and long-f
 - [Supporting the social practices of distributed pair programming](https://link.springer.com/chapter/10.1007/978-3-540-92831-7_8) — Schümmer & Lukosch (2008) · Analyzes social dimensions of DPP; proposes groupware support for coordination.
 - [Examining student performance and attitudes on distributed pair programming](https://www.hindawi.com/journals/sp/2018/6523538/) — Satratzemi et al. (2018) · Performance and attitude study; attitudes correlate with confidence in DPP.
 - [Evaluation of different group formation methods in the context of distributed pair programming](https://hal.science/hal-05247202v1/file/3724363.3729029.pdf) — Colin, Hoarau, Broisin (2025)
+- [An empirical study on factors related to distributed pair programming](https://scispace.com/pdf/an-empirical-study-on-factors-related-to-distributed-pair-1ksrbm9py7.pdf) — Tsompanoudi, Satratzemi, Xinogalos, Karamitopoulos (2019)
 
 ### Psychology, Cognition & Theory
 
@@ -157,6 +161,7 @@ A curated list of awesome pair programming resources, including books and long-f
 - [Pair programming productivity: Novice-novice vs. expert-expert](https://www.cs.utexas.edu/~ans/classes/cs303e/pair-hcs-2006.pdf) — Lui & Chan (2006) · REAP differs significantly between novice and expert pairs; sample size implications.
 - [How pair programming really works](https://ieeexplore.ieee.org/document/5342407) — Wray (2010) · Practitioner study challenging driver/navigator assumptions in real-world settings.
 - [Critical personality traits in successful pair programming](https://ieeexplore.ieee.org/document/1667566) — Chao & Atli (2006) · Openness, conscientiousness, and communication linked to successful pairing.
+- [An empirical study of the effects of conscientiousness in pair programming using the five-factor personality model](https://nzjohng.github.io/publications/papers/icse2010.pdf) — Salleh, Mendes, Grundy, Burch (2010)
 - [Pair dynamics in team collaboration](https://www.sciencedirect.com/science/article/abs/pii/S0747563208001817) — Choi, Deek, Im (2009) · Analyzes communication, conflict, and dynamic shifts within PP sessions.
 - [An empirical study on the impact of IDE tool support in pair and solo programming](https://arxiv.org/abs/1607.05173) — Gómez et al. (2016) · IDE use increases defect injection for both pairs and solos; pairs more resilient on complex tasks.
 - [Understanding pair programming: The base layer](https://www.amazon.com/Understanding-Pair-Programming-Base-Layer/dp/3732281930) — Salinger & Prechelt (2013) · Comprehensive framework of PP activities beyond the binary driver/navigator model.
