@@ -13,6 +13,39 @@ A curated list of awesome pair programming resources, including books and long-f
 - [Extreme Programming Explained: Embrace Change](https://www.oreilly.com/library/view/extreme-programming-explained/0321278658/) by Kent Beck & Cynthia Andres
 - [The Art of Agile Development](https://www.jamesshore.com/v2/books/aoad2) by James Shore & Shane Warden
 - [Remote Pairing: Collaborative Tools for Distributed Development](https://pragprog.com/titles/jkrp/remote-pairing/) by Joe Kutner
+- [Test-Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530) by Kent Beck
+- [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959) by Frederick P. Brooks
+- [Agile Software Development: The Cooperative Game](https://www.amazon.com/Agile-Software-Development-Cooperative-Game/dp/0321482751) by Alistair Cockburn
+- [Crystal Clear: A Human-Powered Methodology for Small Teams](https://www.amazon.com/Crystal-Clear-Human-Powered-Methodology-Small/dp/0201699478) by Alistair Cockburn
+- [Writing Effective Use Cases](https://www.amazon.com/Writing-Effective-Cases-Alistair-Cockburn/dp/0201702258) by Alistair Cockburn
+- [Constantine on Peopleware](https://www.amazon.com/Constantine-Peopleware-Yourdon-Press-Computing/dp/0133319768) by Larry Constantine
+- [Organizational Patterns of Agile Software Development](https://www.amazon.com/Organizational-Patterns-Agile-Software-Development/dp/0131467409) by James Coplien & Neil Harrison
+- [Pattern Languages of Program Design](https://www.amazon.com/Pattern-Languages-Program-Design-Coplien/dp/0201607344) by James Coplien & Douglas Schmidt (Eds.)
+- [Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113) by Tom DeMarco & Tim Lister
+- [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) by Erich Gamma, Richard Helm, Ralph Johnson & John Vlissides
+- [Adaptive Software Development](https://www.amazon.com/Adaptive-Software-Development-Collaborative-Approach/dp/0932633404) by Jim Highsmith
+- [Agile Software Development Ecosystems](https://www.amazon.com/Agile-Software-Development-Ecosystems-Highsmith/dp/0201760436) by Jim Highsmith
+- [Managing the Software Process](https://www.amazon.com/Managing-Software-Process-Watts-Humphrey/dp/0201180952) by Watts Humphrey
+- [A Discipline for Software Engineering](https://www.amazon.com/Discipline-Software-Engineering-Watts-Humphrey/dp/0201546108) by Watts Humphrey
+- [Introduction to the Personal Software Process](https://www.amazon.com/Introduction-Personal-Software-Process-Humphrey/dp/0201548097) by Watts Humphrey
+- [Software Engineering: A Practitioner's Approach](https://www.amazon.com/Software-Engineering-Practitioners-Roger-Pressman/dp/0078022126) by Roger Pressman
+- [Agile Project Management with Scrum](https://www.amazon.com/Agile-Project-Management-Developer-Practices/dp/073561993X) by Ken Schwaber
+- [Agile Software Development with Scrum](https://www.amazon.com/Agile-Software-Development-Scrum/dp/0130676349) by Ken Schwaber & Mike Beedle
+- [Software Engineering](https://www.amazon.com/Software-Engineering-10th-Ian-Sommerville/dp/0133943038) by Ian Sommerville
+- [Extreme Programming Refactored](https://www.amazon.com/Extreme-Programming-Refactored-Case-Against/dp/1590590961) by Matt Stephens & Doug Rosenberg
+- [Extreme Programming Examined](https://www.amazon.com/Extreme-Programming-Examined-Giancarlo-Succi/dp/0201710404) by Giancarlo Succi & Michele Marchesi (Eds.)
+- [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X) by Jeff Sutherland
+- [The Psychology of Computer Programming](https://www.amazon.com/Psychology-Computer-Programming-Silver-Anniversary/dp/0932633420) by Gerald Weinberg
+- [Pair Programming](https://www.amazon.com/s?k=Pair+Programming+Laurie+Williams+2010) by Laurie Williams
+- [Software Engineering at Google](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791) by Titus Winters, Tom Manshreck & Hyrum Wright
+- [Software Configuration Management Patterns](https://www.amazon.com/Software-Configuration-Management-Patterns-Integration/dp/0201741172) by Stephen Berczuk & Brad Appleton
+- [Software Engineering Economics](https://www.amazon.com/Software-Engineering-Economics-Barry-Boehm/dp/0138221227) by Barry Boehm
+- [Journey of the Software Professional](https://www.amazon.com/Journey-Software-Professional-Sociology-Development/dp/0132366134) by Luke Hohmann
+- [Software Assessment](https://www.amazon.com/Software-Assessment-Reliability-Testability-Engineering/dp/047101009X) by Michael Friedman & Jeffrey Voas
+- [Team Geek](https://www.amazon.com/Team-Geek-Software-Developers-Working/dp/1449302440) by Brian Fitzpatrick & Ben Collins-Sussman
+- [Agile Documentation](https://www.amazon.com/Agile-Documentation-Producing-Lightweight-Documents/dp/0470856173) by Andreas Rüping
+- [Mob Programming](https://www.amazon.com/s?k=Mob+Programming+Jeff+Dalton) by Jeff Dalton
+- [Great Big Agile: An OS for Agile Leaders](https://www.amazon.com/Great-Big-Agile-OS-Leaders/dp/148424205X) by Jeff Dalton
 
 ## Articles
 
